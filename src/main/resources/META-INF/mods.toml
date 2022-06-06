@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="The Unlicense"
+
+[[mods]]
+modId="shulkerduper"
+version="${file.jarVersion}"
+displayName="ShulkerDuper"
+#updateJSONURL=""
+authors="micklee"
+description="Dupe for 1.18.2"
+
+[[dependencies.shulkerduper]]
+    modId="forge"
+    mandatory=true
+    versionRange="[37,)"
+    ordering="NONE"
+    side="CLIENT"
