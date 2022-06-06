@@ -15,7 +15,6 @@ import net.minecraft.world.level.block.ShulkerBoxBlock;
 import net.minecraft.network.protocol.game.ServerboundPlayerActionPacket;
 
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.common.MinecraftForge;
